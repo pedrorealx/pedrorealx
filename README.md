@@ -3,23 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Pedro, tenho 20 anos e sou natural de Pernambuco . tenho o curso técnico em Eletrotécnica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Católica Imaculada de Recife(Ficr). Sou apaixonado por tecnologia e em desenvolvimento. Meu instagram ([https://www.instagram.com/pedrorealx/?next=%2F])".
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
